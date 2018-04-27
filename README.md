@@ -34,7 +34,7 @@ $ gittio install BhushanP.SEGMENTED_CONTROL
 ###Manual method 
 
 * Download this repo (git clone / download zip)
-* Copy the widgets/com.skypanther.segmentedcontrol to your project's widgets folder
+* Copy the widgets to your project's widgets folder
 * Update your app/config.json to add:
 
 ```json

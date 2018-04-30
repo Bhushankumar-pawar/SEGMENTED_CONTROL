@@ -5,7 +5,7 @@
 	"author": "Bhushankumar Pawar",
 	"version": "1.0",
 	"copyright":"Copyright (c) 2017",
-	"license":"pache License, Version 2.0",
+	"license":"Apache License, Version 2.0",
 	"min-alloy-version": "1.9.11",
 	"min-titanium-version":"6.0",
 	"tags":"Cross-platform, tabbed bar, tab bar, segmented control, segmented_control, segmentedControl, Segmented Controls",
